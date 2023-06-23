@@ -6,12 +6,12 @@ Patch Notes:
 
 	UI Changes:
   
-    		- Title Screen
-    		- New Fonts
-    		- Background
-   		- Added SFX for Game Over and Jump
-   		- Added Animations for Jump
-   		- Fixed Particle System spawns
+    	- Title Screen
+    	- New Fonts
+    	- Background
+	- Added SFX for Game Over and Jump
+    	- Added Animations for Jump
+    	- Fixed Particle System spawns
 
   	Quality Of Life Features (QoL):
   

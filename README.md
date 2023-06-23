@@ -16,7 +16,7 @@ Patch Notes:
   	Quality Of Life Features (QoL):
   
   		- Added Title Screen
-    		- Added Quit Button (In Title Screen & Play Again)
+		- Added Quit Button (In Title Screen & Play Again)
 
   	Bug Fixes:
   

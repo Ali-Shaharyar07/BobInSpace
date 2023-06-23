@@ -8,8 +8,8 @@ Patch Notes:
   
     	- Title Screen
     	- New Fonts
-    	- Background
-	- Added SFX for Game Over and Jump
+    	- Background	
+     	- Added SFX for Game Over and Jump
     	- Added Animations for Jump
     	- Fixed Particle System spawns
 

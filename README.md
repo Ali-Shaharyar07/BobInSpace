@@ -2,9 +2,10 @@
 
 This game is too a Flappy Bird remake, and a sequel to my first Unity project "Floppy Bob"
 
-Patch Notes:
+Patch Notes:    
 
-  UI Changes:
+	UI Changes:
+  
     - Title Screen
     - New Fonts
     - Background
@@ -13,10 +14,12 @@ Patch Notes:
     - Fixed Particle System spawns
 
   Quality Of Life Features (QoL):
+  
     - Added Title Screen
     - Added Quit Button (In Title Screen & Play Again)
 
   Bug Fixes:
+  
     - Fixed a bug that would add score after Game Over
     - Fixed Pipe Spawns after Game Over
     - Fixed Game Over SFX playing multiple times with each collision

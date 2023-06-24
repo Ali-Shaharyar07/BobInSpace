@@ -2,7 +2,7 @@
 
 This game is too a Flappy Bird remake, and a sequel to my first Unity project "Floppy Bob"
 
-Patch Notes:    
+Changes & Features:    
 
 	UI Changes:
   
